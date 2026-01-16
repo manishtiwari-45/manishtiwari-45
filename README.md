@@ -24,7 +24,7 @@
 
 📄 **Resume:** [View Here](https://docs.google.com/document/d/1vfxYWTZH-HBaZhkvtXqXABCGu5XoFS9TfNzyYjd6pto/edit?usp=sharing)  
 🌐 **Portfolio:** [Visit My Website](https://manishtiwari-45.github.io/portfolio-project/)
-📫 Contact: manishtiwari.cs@gmail.com 
+📫 **Contact**: manishtiwari2578@gmail.com 
 
 ---
 
