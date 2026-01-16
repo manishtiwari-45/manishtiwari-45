@@ -40,6 +40,15 @@
 
 ---
 
+### 🧰 Tools & Concepts
+- Git & GitHub
+- SQL & Relational Databases
+- Problem Solving & Algorithmic Thinking
+- Academic Project Development
+- Debugging & Code Reading
+
+---
+
 ### 📊 Core Computer Science (Learned till Semester 3)
 - Data Structures & Algorithms 
 - Object-Oriented Programming 
@@ -55,15 +64,6 @@
 - Python for Data Analysis
 - Machine Learning(Introductory)
 - Data Handling foundations
-
----
-
-### 🧰 Tools & Concepts
-- Git & GitHub
-- SQL & Relational Databases
-- Problem Solving & Algorithmic Thinking
-- Academic Project Development
-- Debugging & Code Reading
 
 ---
 
