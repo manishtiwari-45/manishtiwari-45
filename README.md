@@ -1,3 +1,5 @@
+---
+
 <h1 align="center">Hi 👋, I am Manish Tiwari</h1>
 <h3 align="center">CS Undergraduate | Aspiring Web Developer | Artificial Intelligence &  ML Enthusiast</h3>
 
@@ -98,3 +100,5 @@
 
 ⭐️ **Feel free to explore my repositories**  
 🤝 **Open to feedback, collaboration, and opportunities!**
+
+---
