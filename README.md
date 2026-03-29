@@ -123,16 +123,6 @@ Applied graph theory to analyze LinkedIn connection data as a social network.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishtiwari-45&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishtiwari-45&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to internship opportunities, collaborations, and interesting problems. Let's build something.</i>
 </p>
