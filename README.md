@@ -122,6 +122,19 @@ Applied graph theory to analyze LinkedIn connection data as a social network.
 `Python` `Graph Theory` `NetworkX` `Pandas` `Data Analysis` `Visualization`
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishtiwari-45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishtiwari-45&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manishtiwari-45&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
 
 <p align="center">
   <i>Open to internship opportunities, collaborations, and interesting problems. Let's build something.</i>
