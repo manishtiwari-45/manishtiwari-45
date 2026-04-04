@@ -33,7 +33,7 @@ I'm a Computer Science undergraduate at Sitare University (B.Tech '27), building
 - 🔍 Currently focused on: backend engineering, system design, and interview preparation
 - 💼 Open to **SWE Internships** — actively applying
 
-📄 [Resume](https://docs.google.com/document/d/1vfxYWTZH-HBaZhkvtXqXABCGu5XoFS9TfNzyYjd6pto/edit?usp=sharing) &nbsp;|&nbsp; 🌐 [Portfolio](https://manishtiwari-45.github.io/portfolio-project/)
+📄 [Resume](https://docs.google.com/document/d/1vfxYWTZH-HBaZhkvtXqXABCGu5XoFS9TfNzyYjd6pto/edit?usp=sharing) &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-manish-sigma.vercel.app/)
 
 ---
 
