@@ -1,141 +1,144 @@
-<h1 align="center">Hey, I'm Manish Tiwari 👋</h1>
+# Hi, I am Manish Tiwari 👋
 
-<h3 align="center">
-  CS Undergraduate @ Sitare University &nbsp;|&nbsp; Backend & Full-Stack Developer &nbsp;|&nbsp; Java · Python · FastAPI · React
-</h3>
+### Computer Science undergraduate & Software Engineer
 
-<p align="center">
-  <a href="https://linkedin.com/in/manishtiwari-2578" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/manish-tiwari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/manishtiwg6yk/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:manishtiwari2578@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+I am a Computer Science undergraduate at **Sitare University (B.Tech 2027) with SRMU** focused on building **reliable backend systems, full-stack applications, and software with strong engineering fundamentals**.
 
----
+* 🏆 **100% B.Tech CS Scholarship** — Sitare Foundation
+* 🎯 **GPA: 8.20** | Strong foundation in DSA, OOP, DBMS, and Systems
+* 🔧 Focused on **Backend Engineering, Full-Stack Development, AI, and System Design**
+* 🧠 Consistently practicing **Data Structures & Algorithms**
+* 💼 Open to **Software Engineering Internships**
 
-## About Me
-
-I'm a Computer Science undergraduate at Sitare University (B.Tech '27), building backend systems and full-stack applications across Java and Python ecosystems. I've shipped projects ranging from a full scripting language interpreter in pure Java to a deployed full-stack campus platform with role-based access control.
-
-- 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — awarded Oct 2024
-- 🎯 **GPA: 7.98** | Strong foundation in DSA, OOP, DBMS, and Systems
-- 🔍 Currently focused on: backend engineering, system design, and interview preparation
-- 💼 Open to **SWE Internships** — actively applying
-
-📄 [Resume](https://docs.google.com/document/d/1vfxYWTZH-HBaZhkvtXqXABCGu5XoFS9TfNzyYjd6pto/edit?usp=sharing) &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-manish-sigma.vercel.app/)
+📄 [Resume](https://docs.google.com/document/d/1vfxYWTZH-HBaZhkvtXqXABCGu5XoFS9TfNzyYjd6pto/edit?usp=sharing) · 🌐 [Portfolio](https://manish-tiwari-2.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+**Languages:**
+Java · Python · TypeScript · JavaScript · Swift · SQL
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+**Backend:**
+FastAPI · Node.js · Express · REST APIs · Prisma
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+**Frontend:**
+React · Next.js · Tailwind CSS
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+**AI / ML:**
+LangChain · LangGraph · RAG · Vector Databases · scikit-learn · XGBoost
+
+**Databases:**
+MySQL · MongoDB · Redis · SQLite
+
+**Systems & Tools:**
+Docker · Git · Linux · Socket.IO · GitHub
+
+---
+
+## 💼 Experience
+
+### Software Engineering Intern — Beans.ai
+
+**Summer 2026**
+
+* Rebuilt ~80% of a production iOS application using **SwiftUI**
+* Improved maintainability with **MVVM and Clean Architecture**
+* Reduced unnecessary third-party dependencies
+* Automated repetitive code-generation workflows
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔵 [BLOOP Interpreter — Mini Scripting Language Engine](https://github.com/manishtiwari-45/bloop-interpreter-java)
-Built a fully functional interpreter for BLOOP, a custom scripting language, in **pure Java** — implementing a complete pipeline from tokenizer to evaluator from scratch.
-- Designed a **recursive descent parser** to construct an Abstract Syntax Tree (AST) with correct operator precedence
-- Supports arithmetic expressions, conditionals, loops, and a **HashMap-based variable environment**
-- Applied Advanced OOP principles: immutability, interfaces, polymorphism, and clean separation of concerns
+### 🔵 [NextHire — Technical Interview Platform](https://github.com/manishtiwari2/nexthire)
 
-`Java` `OOP` `Compiler Design` `AST` `Recursive Descent Parser`
+A full-stack platform for conducting technical interviews and coding contests with real-time collaboration.
 
----
+* Built collaborative coding sessions using **Socket.IO** and Monaco Editor
+* Implemented interview and coding-contest workflows
+* Used **React, TypeScript, Node.js, Express, Prisma, TanStack Query, and Zustand**
 
-### 🟢 [SAMVAD — Campus Communication & Club Management Platform](https://github.com/manishtiwari-45/samvad)
-Full-stack web application to streamline communication between students, clubs, and administrators.
-- Built **role-based access control** (student, club admin, super admin) with JWT authentication via FastAPI
-- Designed a layered backend architecture: Controllers → Services → Repositories → Models
-- Integrated React + Tailwind CSS frontend; **deployed end-to-end on Render and Vercel**
-
-`Python` `FastAPI` `React` `JWT` `SQLite` `Tailwind CSS` `REST APIs`
+`React` `TypeScript` `Node.js` `Socket.IO` `Prisma` `Monaco Editor`
 
 ---
 
-### 🟡 [AI-Optimized Exam Seating Allocation System](https://github.com/manishtiwari-45/exam-seating-allocation)
-Java-based system to automate exam seating and reduce cheating using AI optimization.
-- Implemented **Hill Climbing algorithm** to generate constraint-satisfying seat assignments — enforcing department separation and student spacing rules
-- Backend built with **Core Java + JDBC + MySQL**; vanilla JavaScript frontend for visualization
+### 🟣 Video Agent — AI Meeting Intelligence
+
+An AI-powered system that converts recorded meetings into structured, searchable knowledge.
+
+* Supports **YouTube and local video ingestion** with automatic transcription
+* Extracts **summaries, action items, key decisions, and open questions**
+* Built a **RAG pipeline** for natural-language Q&A grounded in meeting transcripts
+
+`Python` `RAG` `LangChain` `LLM` `Vector Database` `AI`
+
+---
+
+### 🔵 [BLOOP — Programming Language Interpreter](https://github.com/manishtiwari2/bloop-interpreter-java)
+
+Built an object-oriented scripting-language interpreter entirely in **Java**, without parser generators.
+
+* Implemented a **lexer, recursive-descent parser, AST evaluator, and runtime**
+* Added operator precedence, control flow, and variable environments
+* Applied OOP principles including interfaces, polymorphism, and separation of concerns
+
+`Java` `OOP` `Interpreter` `AST` `Parsing` `Compiler Design`
+
+---
+
+### 🟢 [SAMVAD — Campus Communication Platform](https://github.com/manishtiwari2/samvad)
+
+Full-stack platform for communication between students, clubs, and administrators.
+
+* Implemented **role-based access control** for students, club admins, and super admins
+* Built a layered backend architecture with **Controllers → Services → Repositories → Models**
+* Deployed the application end-to-end using **Render and Vercel**
+
+`Python` `FastAPI` `React` `JWT` `SQLite` `Tailwind CSS`
+
+---
+
+### 🟡 [Exam Seating Optimization System](https://github.com/manishtiwari2/exam-seating-allocation)
+
+Java-based system for generating constraint-aware exam seating assignments.
+
+* Implemented **Hill Climbing** to satisfy department separation and student spacing constraints
+* Built the backend using **Core Java, JDBC, and MySQL**
+* Added a JavaScript interface for visualizing seating assignments
 
 `Java` `JDBC` `MySQL` `Hill Climbing` `Optimization` `JavaScript`
 
 ---
 
-### 🔴 [RideFair — Real-Time Fare Estimator & Scam Detection](https://github.com/manishtiwari-45/rideFair-estimator)
-Backend service to estimate fair ride prices and flag potential overcharging using ML.
-- Built REST API with **FastAPI + MySQL** for fare estimation from historical trip data
-- Applied ML models for overcharging pattern detection; visualized location trends using **React Leaflet**
+## 🧠 Problem Solving
 
-`Python` `FastAPI` `MySQL` `Machine Learning` `React` `Data Visualization`
+I consistently practice **Data Structures & Algorithms** and document my solutions and approaches on GitHub.
 
----
-
-### 🟣 [LinkedIn Network Analysis — Graph Theory on Social Connections](https://github.com/manishtiwari-45/linkedin-network-analysis)
-Applied graph theory to analyze LinkedIn connection data as a social network.
-- Computed **degree centrality metrics**, performed random walk analysis, and identified highly connected nodes
-- Visualized network structures and relationship density patterns using Python data tools
-
-`Python` `Graph Theory` `NetworkX` `Pandas` `Data Analysis` `Visualization`
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishtiwari2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishtiwari2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manishtiwari2&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+**Focus:**
+Arrays · Strings · Linked Lists · Trees · Graphs · Binary Search · Recursion · Dynamic Programming · Greedy · Problem Solving
 
 ---
 
-<p align="center">
-  <i>Open to internship opportunities, collaborations, and interesting problems. Let's build something.</i>
-</p>
+## 🔭 Currently
+
+* Building stronger **backend and system design** fundamentals
+* Practicing **DSA and interview problem solving**
+* Building and refining **full-stack and AI systems**
+* Preparing for **Software Engineering internships**
+
+---
+
+## 📊 GitHub
+
+I build in public, document what I learn, and continuously improve my software engineering fundamentals.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Manish%20Tiwari-181717?style=for-the-badge\&logo=github)](https://github.com/manishtiwari2)
+
+---
+
+## 🤝 Let's Connect
+
+I’m interested in **software engineering, backend systems, full-stack development, AI engineering, and challenging technical problems**.
+
+📄 [Resume](https://docs.google.com/document/d/1vfxYWTZH-HBaZhkvtXqXABCGu5XoFS9TfNzyYjd6pto/edit?usp=sharing) · 🌐 [Portfolio](https://manish-tiwari-2.vercel.app/) · 💻 [GitHub](https://github.com/manishtiwari2)
